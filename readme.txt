@@ -1,0 +1,1 @@
+Col ciclo for itera i numeri da 1 a 100 poi Prima verifica i multipli di 15 (che è il prodotto di 3 e 5, per i numeri che sono multipli sia di 3 che di 5), poi i multipli di 3 e di 5 separatamente.
